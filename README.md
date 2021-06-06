@@ -8,13 +8,3 @@
 ```
 
 I'm a postgraduate student majored in computer science.  
-
-Interests:
-
-- C/C++ Languages
-
-- Linux Userspace Programming
-
-- Linux Kernel Development
-
-- Parallel Computing
